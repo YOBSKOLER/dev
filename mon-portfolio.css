@@ -450,10 +450,9 @@ header {
   height: 86px;
   margin: auto;
 }
-.skill-name {
-  margin-top: 12px;
-  color: var(--muted);
-  font-size: 14px;
+.skill-name .img{
+  width:15px
+  height:15px
 }
 /* services */
 .service .container {
@@ -668,3 +667,4 @@ header {
     font-size: 12px;
   }
 }
+
